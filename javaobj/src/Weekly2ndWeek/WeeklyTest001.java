@@ -10,7 +10,7 @@ public class WeeklyTest001 {
        System.out.println("enter the number");
        int num=sc.nextInt();
        
-       for (int mul=1;mul<=10;mul++) {
+       for (int mul=1;mul<=20;mul++) {
     	   System.out.println(num +" x "+mul+" ="+(num*mul));
     	   
        }
