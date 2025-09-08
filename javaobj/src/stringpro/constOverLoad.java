@@ -10,7 +10,7 @@ public class constOverLoad {
 		System.out.println("method with parameter"+" "+b);
 	}
 	public static void main (String[]agrs) {
-		
+		      
 		constOverLoad l=new constOverLoad();
 		constOverLoad l1=new constOverLoad();
 		l.display();
