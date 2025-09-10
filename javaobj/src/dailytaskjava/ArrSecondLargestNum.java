@@ -33,6 +33,7 @@ int seclar=Integer.MIN_VALUE;
  }else {
 	 System.out.println("seclar elemnents ="+seclar);
  }
+// System.out.println(arr); this arreys base address
 	}
 
 }
