@@ -1,3 +1,4 @@
+package Arreys;
 import java.util.Scanner;
 
 public class ArreysBoolean {
