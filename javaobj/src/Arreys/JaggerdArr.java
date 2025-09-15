@@ -12,7 +12,7 @@ public class JaggerdArr {
 		jag[2]=new int[] {6,7,8,9};
 		
 		for(int i=0;i<jag.length;i++) {
-			for(int j=0;j<jag[i].length;i++) {
+			for(int j=0;j<jag[i].length;j++) {
 				System.out.print(jag[i][j]+" ");
 			}
 				System.out.println();
